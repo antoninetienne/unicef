@@ -1,0 +1,25 @@
+/*Components files */
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/cards.css");
+
+/*Importation police */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@300&display=swap');
+
+
+
+
+body {
+  font-family: 'Source Serif 4', sans-serif;
+  margin: 0px;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;  
+}
+
+a {
+  text-decoration: none;
+}

@@ -1,0 +1,18 @@
+.banner {
+	background-image: 
+		linear-gradient(-225deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.1) 77%),
+		url(../../images/enfanttravail.jpeg);
+	background-size: cover;
+	background-position: center;
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+.banner h1 {
+	color: white;
+}
+
+.banner h2 {
+	color: white;
+	font-weight: lighter;
+}
